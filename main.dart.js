@@ -101237,7 +101237,7 @@ return A.b([A.b([0.41233895,0.35762064,0.18051042],s),A.b([0.2126,0.7152,0.0722]
 $.tM=A.b([95.047,100,108.883],t.n)
 $.aL8=null
 $.azq=null
-$.et="https://polymer-market-serever-production.onrender.com"
+$.et="https://polymer-market-production-454900678732.asia-south1.run.app"
 $.ako=null
 $.aTa=A.q(t.S,A.ap("b2g"))
 $.aHU=null
